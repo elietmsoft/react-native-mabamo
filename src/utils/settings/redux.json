@@ -1,0 +1,17 @@
+{
+    "CATEGORY":{
+        "SEARCH":"CAT_SEARCH",
+        "CURRENT":"CAT_CURRENT"
+    },
+    "ARTICLE":{
+        "SEARCH":"ARTICLE_SEARCH",
+        "CURRENT":"ARTICLE_CURRENT",
+        "CART":"ARTICLE_CART",
+        "FAVORITE":"ARTICLE_FAVORITE"
+    },
+    "USER":{
+        "CONTACTS":"USER_CONTACTS",
+        "PROFIL":"USER_PROFIL",
+        "LIST":"USER_LIST"
+    }
+}

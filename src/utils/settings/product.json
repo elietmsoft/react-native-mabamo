@@ -1,0 +1,24 @@
+{
+    "TYPE":{
+        "simple":"simple",
+        "grouped":"grouped",
+        "external":"external",
+        "variable":"variable"
+    },
+    "STATUS":{
+        "draft":"draft",
+        "pending":"pending",
+        "private":"private",
+        "publish":"publish"
+    },
+    "STOCK":{
+        "instock":"instock",
+        "outofstock":"outofstock",
+        "onbackorder":"onbackorder"
+    },
+    "PRICE":{
+        "regular":"regular",
+        "promotion":"promotion",
+        "interval":"interval"
+    }
+}
